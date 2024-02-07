@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Public Schools of Petoskey has expressed a lack of interest in renewing it's support in the form of a management contract for Petoskey Montessori Children's House. The consequences of this action are wide ranging, this site details them as well as our efforts to change their mind.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.supportpmch.org" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: "G-X2Y8KLD3YF"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 

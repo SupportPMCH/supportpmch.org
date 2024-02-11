@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Staff
+title: PSP Staff
 permalink: /pspstaff
 ---
 
 # PSP Staff Directory
 
-## Jeff Leslie
-### Superintendent
+### [Dr Jeff Leslie](/_pages/pspstaff/jeff_leslie)
+#### Superintendent
 
-## Lori Lewis
-### Executive Assistant
+### Lori Lewis
+#### Executive Assistant
 
-## Bill Melching
-### FOIA Adminstrator
+### [Bill Melching](/_pages/pspstaff/bill_melching)
+#### FOIA Adminstrator
 
-## Becky Smith
-### Director of Teaching and Learning
+### [Becky Smith](/_pages/pspstaff/becky_smith)
+#### Director of Teaching and Learning
 

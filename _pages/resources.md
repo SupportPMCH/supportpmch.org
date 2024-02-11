@@ -10,9 +10,9 @@ This page is an attempt to provide links to the most heavily relied upon resourc
 
 ## Source Documents
 
-** PSP Management Agreements / Legal documents **
+**PSP Management Agreements / Legal documents**
 
-** PMCH**
+**PMCH**
 - [2020~2022 Montessori Agreement](/assets/files/Montessori_Agreement_20-22.pdf)
 	- This document is the Management Agreement under which PMCH and PSP have operated for many years. Crucially, this document outlines the **20%** management fee that PSP has been charging for over 20 years. This is the most recent copy of the standard 2 year renewal document that has historically been used. We endeavor to obtain copies of previous years agreements, going back as far as 2000.
 - [October 2023 Amendment](/assets/files/2023-2024_Mgt_Agreement_Amendment.pdf)

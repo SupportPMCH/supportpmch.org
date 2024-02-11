@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Support Petoskey Montessori Children's House
 ---
 
 ## Citizen-Led, Independent

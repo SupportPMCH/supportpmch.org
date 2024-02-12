@@ -9,7 +9,7 @@ SupportPMCH is a citizen-led grassroots initiative to ensure that residents of P
 
 The opinions expressed here belong solely to SupportPMCH, and are not official positions or statements on the part of PMCH BOT or PMCH staff. Editorial control is at the sole discretion of SupportPMCH and it's management.
 
-We understand that our positions might come across as overly firm. We hope that you understand that we've come to this effort as a last result, after over a year of waiting for the PSP board to work amiably with the PMCH BOT, only to learn time and again of duplicitous behavior. The system that should work for us is failing as a result of what we have come to suspect to be a personal agenda to mislead the PSP Board. We intend to investigate this suspicion to it's conclusion, and this site will serve as public documentation of that process and our findings.
+We understand that our positions might come across as overly firm. We hope that you understand that we've come to this effort as a last result, after over a year of waiting for the PSP board to work amiably with the PMCH BOT, only to learn time and again of duplicitous behavior. The system that should work for us is failing, as a result we intend to investigate the circumstances, this site will serving as public documentation of that process and our findings.
 
 ## Mission Statement
 

@@ -21,7 +21,7 @@ The Public Schools of Petoskey has expressed a lack of interest in renewing it's
 
 ## Objectives
 
-- Identify points of contention
+- [Identify points of contention](/concerns/)
 - Address the collected concerns here
 - Outline the extensive amazing things happening at PMCH
 - Provide easy access to people to voice support for PMCH to their local elected officials

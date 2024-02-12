@@ -12,5 +12,7 @@ Becky Smith was hired in the role of Director of Teaching and Learning ( Directo
 
 Previously, Smith helped secure a MiSTEM grant for over $60,000, as well as matching funds from the school board for science learning materials.
 
+
+
 ![Becky Smith Wages](/assets/images/smith_wages.png)
 

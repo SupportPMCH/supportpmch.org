@@ -12,4 +12,7 @@ PMCH requested funds to update the doors through the PSP capital call being used
 
 To address identified deficiencies, 5 doors were replaced, and 3 were updated. Efforts to continue to improve the building are ongoing.
 
-Ultimately, the goal is to build a new building on the current property, which will allow for expanded services and more students.
+Ultimately, the goal is to build a new building on the current property, which will allow for expanded services and more students. This building is expected to cost between $2.5 and $3 million, and would qualify for a low interest government loan. Efforts have already been underway to bring this plan to fruition.
+
+![New Building Floorplan](/assets/images/floor_plan.png)
+[PDF Version](/assets/files/Petoskey_Montessori_20230619.pdf)

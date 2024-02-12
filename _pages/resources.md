@@ -25,6 +25,9 @@ This page is an attempt to provide links to the most heavily relied upon resourc
 - [Payments FY 2021-22](/assets/files/Montessori_Payments_FY_2021-22.pdf)
 	- **$61,398** in management fees paid to PSP
 	- ![FY 2021~2022 AP summary](/assets/images/fy_2021-22.png)
+- [New Building Floor Plan](/assets/files/Petoskey_Montessori_20230619.pdf)
+	- Estimated cost $2.5 to $3 million
+	- Eligible for low interest government loan
 
 **PSP**
 - [PSP District Improvement Plan](/assets/files/2023.2024_dip.pdf)

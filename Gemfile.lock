@@ -97,6 +97,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll
   jekyll-feed
+  jekyll-include-cache
   kramdown-parser-gfm
   minimal-mistakes-jekyll
   tzinfo (>= 1, < 3)

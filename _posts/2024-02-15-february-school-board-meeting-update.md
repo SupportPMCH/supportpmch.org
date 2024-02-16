@@ -38,3 +38,8 @@ We're going to focus on supporting the search for a new Management partner, the 
 Even if PSP would renew the agreement, in our observation this has been a strained relationship since the mid 2000's, and many of the same individuals have been present on the PSP Board through those most tenuous of years.
 
 Dr Leslie is left in the awkward and unenviable position of presiding over the conclusion of over a decade of building animosity. The voices in his ear at work all week are louder than our voices in a meeting once a month. By utilizing closed sessions for all their discussion about PMCH, we're not even able to readily identify and address whom has what concerns. We've heard half a dozen distinct causes, but if we're not mistaken one of the slides Dr Leslie showed today had a bullet point that identified 32 concerns. I don't know of anywhere that specific list has been provided in an itemized way. We've not observed it in any of the documents we've collected pertaining to the PSP/PMCH agreement.
+
+Regardless of the total number of concerns, the observation that a new one is dispensed every time the last one was addressed ( kindergarten teacher certification ring any bells? ) leads us to believe that this is just the strategy being employed until the PSP opposition accomplishes their goals of divesting of the PMCH. The existing leadership team is entrenched and not solution oriented.
+
+## Your thoughts?
+[info@supportpmch.org](mailto:info@supportpmch.org)

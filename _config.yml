@@ -35,9 +35,10 @@ analytics:
 
 # Build settings
 theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+# remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+  # - jekyll-include-cache
 
 include: [
   "_pages",

@@ -1,6 +1,6 @@
 ---
 title: February School Board Meeting Update
-layout: post
+layout: single
 date:   2024-02-15 23:00:00 -0500
 categories: "Update"
 ---

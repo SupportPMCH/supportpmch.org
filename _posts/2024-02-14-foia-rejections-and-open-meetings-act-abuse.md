@@ -1,6 +1,6 @@
 ---
 title: FOIA Rejections and Open Meetings Act abuse
-layout: post
+layout: single
 date:   2024-02-14 09:00:00 -0500
 categories: "Update"
 ---

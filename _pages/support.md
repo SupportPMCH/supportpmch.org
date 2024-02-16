@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: home
 title: Support
-permalink: /suppport
+permalink: /support/
 ---
 
 ## Ways to support PMCH

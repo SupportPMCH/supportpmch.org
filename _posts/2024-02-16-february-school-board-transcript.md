@@ -1,6 +1,6 @@
 ---
 title: February School Board Transcript
-layout: post
+layout: single
 date:   2024-02-16 9:00:00 -0500
 categories: "Update"
 ---

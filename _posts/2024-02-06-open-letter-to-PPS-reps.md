@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Open Letter to Representatives of the Public Schools of Petoskey"
 date:   2024-02-06 19:44:34 -0500
 categories: letters

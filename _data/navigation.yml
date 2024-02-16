@@ -1,0 +1,11 @@
+main:
+ - title: "About"
+   url: /about/
+ - title: "FOIA"
+   url: /foia/
+ - title: "Concerns"
+   url: /concerns/
+ - title: "PSP Staff"
+   url: /pspstaff/
+ - title: "Support"
+   url: /support/

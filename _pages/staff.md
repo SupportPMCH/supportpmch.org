@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: home
 title: PSP Staff
-permalink: /pspstaff
+permalink: /pspstaff/
 ---
 
 # PSP Staff Directory

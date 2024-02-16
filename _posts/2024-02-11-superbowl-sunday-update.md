@@ -1,6 +1,6 @@
 ---
 title: "Superbowl Sunday Update"
-layout: post
+layout: single
 date:   2024-02-11 09:00:00 -0500
 categories: "Update"
 ---

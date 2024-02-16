@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Call to Action - February School Board meeting"
 date:   2024-02-09 09:00:00 -0500
 categories: "Call to Action"

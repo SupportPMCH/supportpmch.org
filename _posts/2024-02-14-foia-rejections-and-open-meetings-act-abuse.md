@@ -87,6 +87,6 @@ The law provides for [9 exemptions](https://www.justice.gov/d9/what_are_the_9_fo
 
 The Deliberative Process Privilege is a provision of law that has long been criticized as a catch-all exemption for denying public records requests. We suspect that it is going to once again be favored for that purpose with respect to all things related to the Petoskey Montessori Children's House.
 
-Continuing to refuse to provide these documents and rest upon this provision of the law is likely fully within the rights of the PSP Board, however it makes an absolute mockery of [Dr Leslie's stated commitment to transparency](_pages/pspstaff/jeff_leslie#quoting-the-article) when he was hired.
+Continuing to refuse to provide these documents and rest upon this provision of the law is likely fully within the rights of the PSP Board, however it makes an absolute mockery of [Dr Leslie's stated commitment to transparency](_pages/pspstaff/jeff_leslie.html#quoting-the-article) when he was hired.
 
 Lies are a poor foundation to build a community upon.

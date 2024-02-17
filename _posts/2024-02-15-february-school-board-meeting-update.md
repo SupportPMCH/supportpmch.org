@@ -8,6 +8,10 @@ categories: "Update"
 ## An apology to Becky Smith
 
 We would like to issue an Apology to **Becky Smith** for our careless use of a "no picture" placeholder image. We have updated the flyer in question with what we hope to be a more acceptable "no picture" placeholder image. Publicly available images of other officials were readily available and used, which was not the case with Ms. Smith. We acted in haste due to a sense of urgency, and made a poor choice of image.
+
+In the interests of transparency, here is the original image, followed by the updated flyer with the alternative image used.
+![Original Becky Smith Avatar image](/assets/images/original_becky_avatar.jpg)
+
 ![Update Flyer](/assets/images/SupportPMCH_FebBoardMeeting.webp)
 ## Results of tonight's board meeting
 

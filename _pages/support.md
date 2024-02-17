@@ -4,9 +4,9 @@ title: Support
 permalink: /support/
 ---
 
-## Ways to support PMCH
+## There are a number of ways to support PMCH
 
-Aside from your voice and your vote, there's a number of other ways to support PMCH!
+Aside from your voice and your vote, here are some other ways you can support Petoskey Montessori Children's House
 
 - [Donate](https://givebutter.com/petoskey-montessori-childrens-house)
 - [Fundraising](https://petoskeymontessori.org/giving/fundraising-made-easy/)

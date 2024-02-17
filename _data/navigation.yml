@@ -9,3 +9,5 @@ main:
    url: /pspstaff/
  - title: "Support"
    url: /support/
+ - title: "Resources"
+   url: /resources

@@ -4,7 +4,7 @@ title: Concerns
 permalink: /concerns/
 ---
 
-## Concerns We've Heard
+## Concerns We've Heard, and responses where the information is available to us
 
 ### PSP doesn't own the PMCH Building, and can't make it compliant with the School Safety Plan
 

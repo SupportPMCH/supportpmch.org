@@ -3,7 +3,7 @@ layout: home
 title: About
 permalink: /about/
 ---
-## Citizen-Led, Independent
+## Independent effort
 
 SupportPMCH is a citizen-led grassroots initiative to ensure that residents of Petoskey are provided the level of transparency they deserve around the conduct of the PSP School board. We are separate and independent of The Petoskey Montessori Children's House, as well as it's Board of Trustee's.
 
